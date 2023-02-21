@@ -36,14 +36,22 @@
         <section class="home-slider owl-carousel">
             <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
                 <div class="overlay"></div>
-                <div class="container">
+                <!-- <div class="container">
                     <div class="row no-gutters slider-text align-items-center justify-content-end">
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
                                 <h2>Welcome to your ideal home away from home,</h2>
                                 <h1 class="mb-3" style="font-size: 79px;">AMIGO RESIDENCY NEDUMBASSERY</h1>
-                                <!-- <h2 class="mb-3">NEDUMBASSERY. </h2> -->
-
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="container">
+                    <div class="row no-gutters slider-text align-items-center justify-content-end">
+                        <div class="col-md-6 ftco-animate">
+                            <div class="text">
+                                <h2>Welcome to</h2>
+                                <h1 class="mb-3">your ideal home away from home</h1>
                             </div>
                         </div>
                     </div>
@@ -56,7 +64,7 @@
                     <div class="row no-gutters slider-text align-items-center justify-content-end">
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
-                                <h2>Harbor Lights Hotel &amp; Resort</h2>
+                                <h2>Amigos Residency</h2>
                                 <h1 class="mb-3">It feels like staying in your own home.</h1>
                             </div>
                         </div>
@@ -70,7 +78,7 @@
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-7 heading-section text-center ftco-animate">
-                    <span class="subheading">Welcome to Harbor Lights Hotel</span>
+                    <span class="subheading">Welcome to Amigos Residency</span>
                     <h2 class="mb-4">You'll Never Want To Leave</h2>
                 </div>
             </div>
@@ -318,35 +326,40 @@
             </div>
             <div class="row no-gutters">
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-1.jpg" class="insta-img image-popup" style="background-image: url(images/insta-1.jpg);">
+                    <a href="images/insta-1.jpg" class="insta-img image-popup"
+                        style="background-image: url(images/insta-1.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-2.jpg" class="insta-img image-popup" style="background-image: url(images/insta-2.jpg);">
+                    <a href="images/insta-2.jpg" class="insta-img image-popup"
+                        style="background-image: url(images/insta-2.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-3.jpg" class="insta-img image-popup" style="background-image: url(images/insta-3.jpg);">
+                    <a href="images/insta-3.jpg" class="insta-img image-popup"
+                        style="background-image: url(images/insta-3.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-4.jpg" class="insta-img image-popup" style="background-image: url(images/insta-4.jpg);">
+                    <a href="images/insta-4.jpg" class="insta-img image-popup"
+                        style="background-image: url(images/insta-4.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-5.jpg" class="insta-img image-popup" style="background-image: url(images/insta-5.jpg);">
+                    <a href="images/insta-5.jpg" class="insta-img image-popup"
+                        style="background-image: url(images/insta-5.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
@@ -359,7 +372,8 @@
     <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
             <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" />
+            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
+                stroke="#F96D00" />
         </svg></div>
 
 
@@ -378,9 +392,9 @@
     <script src="js/jquery.animateNumber.min.js"></script>
     <script src="js/bootstrap-datepicker.js"></script>
     <script src="js/scrollax.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">
     </script>
-    <script src="js/google-map.js"></script>
+    <script src="js/google-map.js"></script> -->
     <script src="js/main.js"></script>
 
 </body>
