@@ -64,8 +64,8 @@
                     <div class="row no-gutters slider-text align-items-center justify-content-end">
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
-                                <h2>Amigos Residency</h2>
-                                <h1 class="mb-3">It feels like staying in your own home.</h1>
+                                <!-- <h2>Amigos Residency</h2> -->
+                                <h1 class="mb-3">we provides home-like comfort</h1>
                             </div>
                         </div>
                     </div>
