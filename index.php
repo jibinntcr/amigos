@@ -41,7 +41,7 @@
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
                                 <h2>Welcome to your ideal home away from home,</h2>
-                                <h1 class="mb-3" style="font-size: 79px;">AMIGO RESIDENCY NEDUMBASSERY</h1>
+                                <h1 class="mb-3" style="font-size: 79px;">AMIGOS RESIDENCY NEDUMBASSERY</h1>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
                                 <h2>Welcome to</h2>
-                                <h1 class="mb-3">your ideal home away from home</h1>
+                                <h1 class="mb-3">Your ideal home away from home</h1>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                         <div class="col-md-6 ftco-animate">
                             <div class="text">
                                 <!-- <h2>Amigos Residency</h2> -->
-                                <h1 class="mb-3">we provides home-like comfort</h1>
+                                <h1 class="mb-3">We provides home-like comfort</h1>
                             </div>
                         </div>
                     </div>
@@ -163,7 +163,8 @@
                         <span class="subheading">About</span>
                         <h2 class="mb-4">Amigos Residency
                     </div>
-                    <p class="justify-para">Welcome to AMIGO RESIDENCY, your ideal vacation home. Our hotel is the ideal
+                    <p class="justify-para">Welcome to AMIGOS RESIDENCY, your ideal vacation home. Our hotel is the
+                        ideal
                         alternative for
                         tourists looking for a comfortable and convenient stay because of its excellent location just
                         minutes from the Cochin International Airport.
@@ -206,13 +207,11 @@
                         <h2 class="mb-4">HOTEL FACILITIES
                         </h2>
                     </div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                        live
-                        the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                        large
-                        language ocean.</p>
+                    <p class="justify-para">Welcome to our hotel, where we prioritize your comfort and convenience above
+                        all else. Our
+                        facilities are designed to make your stay with us as seamless and pleasant as possible.</p>
                     <p>
-                    <div class="col-md-12 properties-single ftco-animate mb-5 mt-4">
+                    <div class="col-md-12 properties-single ftco-animate mb-5">
                         <div class="row">
                             <!-- <div class="col-md-6"> -->
                             <ul class="facilities">
@@ -224,6 +223,7 @@
                                 <li><i class="fa-sharp fa-solid fa-bath mr-3"></i>24-HOURS HOT/COLD RUNNING WATER</li>
                                 <li><i class="fas fa-home mr-3"></i>QUIET, CLEAN, AND GREEN HOMELY
                                     ENVIRONMENT</li>
+                                <li><i class="fa-sharp fa-solid fa-handshake mr-3"></i>Meeting Room</li>
                             </ul>
                             <!-- </div> -->
                         </div>
@@ -244,17 +244,22 @@
                     <div class="py-md-5">
                         <div class="heading-section ftco-animate mb-4">
                             <span class="subheading">Testimony</span>
+                            <p class="justify-para mb-4">We at <b>AMIGOS RESIDENCY</b> are dedicated to giving our
+                                visitors the
+                                most enjoyable experience during their stay. Here are some recommendations from past
+                                visitors who stayed with us: </p>
+                            <p>
                             <h2 class="mb-0">Happy Customer</h2>
                         </div>
                         <div class="carousel-testimony owl-carousel ftco-animate">
                             <div class="item">
                                 <div class="testimony-wrap pb-4">
                                     <div class="text">
-                                        <p class="mb-4">“Amigo Residency was the perfect choice for my stay in
+                                        <p class="mb-4">“Amigos Residency was the perfect choice for my stay in
                                             Nedumbassery. The hotel is conveniently located just minutes from the
                                             airport, and the rooms are spacious, clean, and comfortable. The staff were
                                             very friendly and accommodating, and the inhouse restaurant served delicious
-                                            meals. I highly recommend Amigo residency to anyone looking for a
+                                            meals. I highly recommend Amigos residency to anyone looking for a
                                             comfortable and convenient stay in Nedumbassery.”</p>
                                     </div>
                                     <div class="d-flex">
@@ -270,11 +275,11 @@
                             <div class="item">
                                 <div class="testimony-wrap pb-4">
                                     <div class="text">
-                                        <p class="mb-4">“I stayed at Amigo Residency during a business trip, and I was
+                                        <p class="mb-4">“I stayed at Amigos Residency during a business trip, and I was
                                             very impressed with the hotel's facilities and amenities. The high-speed
                                             internet access was a great convenience, the in-house restaurants served
                                             delicious meals. The staff were amiable and made my stay at the hotel a
-                                            memorable one. I highly recommend Amigo Residency to anyone looking for a
+                                            memorable one. I highly recommend Amigos Residency to anyone looking for a
                                             comfortable stay near cochin international airport.”</p>
                                     </div>
                                     <div class="d-flex">
@@ -290,7 +295,8 @@
                             <div class="item">
                                 <div class="testimony-wrap pb-4">
                                     <div class="text">
-                                        <p class="mb-4">“I had a fantastic stay at Amigo Residency. The hotel is located
+                                        <p class="mb-4">“I had a fantastic stay at Amigos Residency. The hotel is
+                                            located
                                             in prime location, just minutes from the airport. The room was clean,
                                             comfortable, and well-equipped with modern amenities. The staff were
                                             friendly and attentive, and the in-house restaurant served delicious meals.
@@ -322,44 +328,42 @@
                 <div class="col-md-7 text-center heading-section ftco-animate">
                     <span class="subheading">Amigos Residency</span>
                     <h2><span>Gallery</span></h2>
+                    <!-- <p class="justify-para mb-4">Thank you for visiting the AMIGO RESIDENCY gallery. Here, you can take
+                        a virtual tour of our establishment and discover the comfort and luxury we provide.
+                    </p> -->
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-1.jpg" class="insta-img image-popup"
-                        style="background-image: url(images/insta-1.jpg);">
+                    <a href="images/insta-1.jpg" class="insta-img image-popup" style="background-image: url(images/insta-1.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-2.jpg" class="insta-img image-popup"
-                        style="background-image: url(images/insta-2.jpg);">
+                    <a href="images/insta-2.jpg" class="insta-img image-popup" style="background-image: url(images/insta-2.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-3.jpg" class="insta-img image-popup"
-                        style="background-image: url(images/insta-3.jpg);">
+                    <a href="images/insta-3.jpg" class="insta-img image-popup" style="background-image: url(images/insta-3.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-4.jpg" class="insta-img image-popup"
-                        style="background-image: url(images/insta-4.jpg);">
+                    <a href="images/insta-4.jpg" class="insta-img image-popup" style="background-image: url(images/insta-4.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm-12 col-md ftco-animate">
-                    <a href="images/insta-5.jpg" class="insta-img image-popup"
-                        style="background-image: url(images/insta-5.jpg);">
+                    <a href="images/insta-5.jpg" class="insta-img image-popup" style="background-image: url(images/insta-5.jpg);">
                         <div class="icon d-flex justify-content-center">
                             <span class="fas fa-search align-self-center"></span>
                         </div>
@@ -372,8 +376,7 @@
     <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
             <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-                stroke="#F96D00" />
+            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" />
         </svg></div>
 
 
