@@ -10893,7 +10893,7 @@ h5,
   bottom: 0;
   content: "";
   opacity: 0.6;
-  background: #2f89fc;
+  background: #520227;
 }
 .hero-wrap .slider-text {
   color: #fff;
@@ -11038,7 +11038,7 @@ h5,
   bottom: 0;
   left: 0;
   right: 0;
-  background: #2f89fc;
+  background: #520227;
   opacity: 0.6;
 }
 .owl-carousel.home-slider .slider-item .slider-text {
@@ -11454,7 +11454,7 @@ h5,
 .wrap-about .time span a {
   font-size: 34px;
   font-weight: 700;
-  color: #2f89fc;
+  color: #520227;
 }
 @media (max-width: 767.98px) {
   .wrap-about .time span a {
@@ -11596,7 +11596,7 @@ h5,
 }
 .room-wrap .text span.price {
   font-size: 26px;
-  color: #2f89fc;
+  color: #520227;
   position: relative;
 }
 .room-wrap .text span.per {
@@ -11610,7 +11610,7 @@ h5,
 }
 .room-wrap:hover,
 .room-wrap:focus {
-  background: #2f89fc;
+  background: #520227;
 }
 .room-wrap:hover .half.left-arrow:after,
 .room-wrap:focus .half.left-arrow:after {
@@ -11840,7 +11840,7 @@ h5,
   font-weight: 600;
 }
 .pricing-entry:hover {
-  background: #2f89fc;
+  background: #520227;
 }
 .pricing-entry:hover .desc h3 {
   color: #fff;
@@ -11911,7 +11911,7 @@ h5,
 }
 
 .aside-stretch-2 {
-  background: #2f89fc;
+  background: #520227;
 }
 .aside-stretch-2:after {
   position: absolute;
@@ -11920,7 +11920,7 @@ h5,
   bottom: 0;
   content: "";
   width: 360%;
-  background: #2f89fc;
+  background: #520227;
 }
 @media (max-width: 767.98px) {
   .aside-stretch-2 {
@@ -12018,7 +12018,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 7em 0;
-  background: #2f89fc;
+  background: #520227;
   position: relative;
 }
 .ftco-footer .overlay {
@@ -12029,7 +12029,7 @@ textarea.form-control {
   bottom: 0;
   content: "";
   opacity: 0.9;
-  background: #2f89fc;
+  background: #520227;
 }
 .ftco-footer .ftco-footer-logo {
   text-transform: uppercase;
@@ -12253,7 +12253,7 @@ textarea.form-control {
 }
 
 .star span {
-  color: #2f89fc;
+  color: #520227;
   margin: 0 4px;
 }
 
@@ -12405,7 +12405,7 @@ textarea.form-control {
 .testimony-wrap .name {
   font-weight: 400;
   margin-bottom: 0;
-  color: #2f89fc;
+  color: #520227;
   font-weight: 700;
   font-size: 20px;
 }
@@ -12621,7 +12621,7 @@ textarea.form-control {
   color: #21cc7a;
 }
 .blog-entry .text .meta-chat {
-  color: #2f89fc;
+  color: #520227;
 }
 .blog-entry .text .read {
   color: #000000;
@@ -12636,7 +12636,7 @@ textarea.form-control {
 }
 .blog-entry .meta > div a {
   font-size: 14px;
-  color: #2f89fc;
+  color: #520227;
   font-weight: 500;
 }
 .blog-entry .meta > div a:hover {
@@ -12707,7 +12707,7 @@ textarea.form-control {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  color: #2f89fc;
+  color: #520227;
 }
 
 .block-18 .icon > span {
@@ -12750,7 +12750,7 @@ textarea.form-control {
 }
 
 .contact-section .contact-info p a {
-  color: #2f89fc;
+  color: #520227;
 }
 
 .contact-section .contact-info p span {
@@ -12858,7 +12858,7 @@ textarea.form-control {
 }
 .comment-list li .comment-body .meta {
   font-size: 13px;
-  color: #2f89fc;
+  color: #520227;
   display: inline-block;
   margin-bottom: 20px;
 }
@@ -12966,12 +12966,12 @@ textarea.form-control {
   font-size: 18px;
 }
 .sidebar-wrap .rate i {
-  color: #2f89fc;
+  color: #520227;
   margin: 0 4px !important;
 }
 
 .rate i {
-  color: #2f89fc;
+  color: #520227;
   margin: 0 4px;
 }
 

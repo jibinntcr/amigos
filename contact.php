@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-
+    <link rel="shortcut icon" href="images/logo.png" />
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -38,7 +38,7 @@
             <div class="row no-gutters slider-text d-flex align-itemd-center justify-content-center">
                 <div class="col-md-9 ftco-animate text-center d-flex align-items-end justify-content-center">
                     <div class="text">
-                        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home</a></span>
+                        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home</a></span>
                             <span>Contact Us</span>
                         </p>
                         <h1 class="mb-4 bread">Contact Us</h1>
@@ -84,8 +84,7 @@
                             <input type="text" class="form-control" placeholder="Subject">
                         </div>
                         <div class="form-group">
-                            <textarea name="" id="" cols="30" rows="7" class="form-control"
-                                placeholder="Message"></textarea>
+                            <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
                         </div>
                         <div class="form-group">
                             <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
@@ -110,10 +109,7 @@
                 </div>
 
                 <div class="col-md-6 d-flex">
-                    <iframe class="bg-white"
-                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3927.2297722343105!2d76.38687091479551!3d10.161969392740259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDA5JzQzLjEiTiA3NsKwMjMnMjAuNiJF!5e0!3m2!1sen!2sin!4v1676951660909!5m2!1sen!2sin"
-                        width="600" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe class="bg-white" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3927.2297722343105!2d76.38687091479551!3d10.161969392740259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDA5JzQzLjEiTiA3NsKwMjMnMjAuNiJF!5e0!3m2!1sen!2sin!4v1676951660909!5m2!1sen!2sin" width="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -126,8 +122,7 @@
     <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
             <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-                stroke="#F96D00" />
+            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" />
         </svg></div>
 
 

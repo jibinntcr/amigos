@@ -10,6 +10,7 @@
     <link href="icons/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link rel="shortcut icon" href="images/logo.png" />
 
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -191,13 +192,19 @@
                 <div class="col-md-6">
                     <div class="single-slider-resto mb-4 mb-md-0 owl-carousel">
                         <div class="item">
-                            <div class="resto-img rounded" style="background-image: url(images/room-4.jpg);"></div>
+                            <div class="resto-img rounded" style="background-image: url(images/FACILITY-1.jpg);"></div>
                         </div>
                         <div class="item">
-                            <div class="resto-img rounded" style="background-image: url(images/room-5.jpg);"></div>
+                            <div class="resto-img rounded" style="background-image: url(images/FACILITY-2.jpg);"></div>
                         </div>
                         <div class="item">
-                            <div class="resto-img rounded" style="background-image: url(images/room-6.jpg);"></div>
+                            <div class="resto-img rounded" style="background-image: url(images/FACILITY-3.jpg);"></div>
+                        </div>
+                        <div class="item">
+                            <div class="resto-img rounded" style="background-image: url(images/FACILITY-4.jpg);"></div>
+                        </div>
+                        <div class="item">
+                            <div class="resto-img rounded" style="background-image: url(images/FACILITY-5.jpg);"></div>
                         </div>
                     </div>
                 </div>
@@ -223,7 +230,7 @@
                                 <li><i class="fa-sharp fa-solid fa-bath mr-3"></i>24-HOURS HOT/COLD RUNNING WATER</li>
                                 <li><i class="fas fa-home mr-3"></i>QUIET, CLEAN, AND GREEN HOMELY
                                     ENVIRONMENT</li>
-                                <li><i class="fa-sharp fa-solid fa-handshake mr-3"></i>Meeting Room</li>
+                                <li><i class="fa-sharp fa-solid fa-handshake mr-3"></i>MEETING ROOM</li>
                             </ul>
                             <!-- </div> -->
                         </div>
@@ -263,7 +270,7 @@
                                             comfortable and convenient stay in Nedumbassery.”</p>
                                     </div>
                                     <div class="d-flex">
-                                        <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                                        <div class="user-img" style="background-image: url(images/person_1.png)">
                                         </div>
                                         <div class="pos ml-3">
                                             <p class="name">David</p>
@@ -283,10 +290,10 @@
                                             comfortable stay near cochin international airport.”</p>
                                     </div>
                                     <div class="d-flex">
-                                        <div class="user-img" style="background-image: url(images/person_2.jpg)">
+                                        <div class="user-img" style="background-image: url(images/person_1_lady.png">
                                         </div>
-                                        <div class="pos ml-3">
-                                            <p class="name">bhargava K H</p>
+                                        <div class=" pos ml-3">
+                                            <p class="name">Bhargava K H</p>
                                             <span class="position">Delhi</span>
                                         </div>
                                     </div>
@@ -304,7 +311,7 @@
                                             convenient stay in Nedumbassery.”</p>
                                     </div>
                                     <div class="d-flex">
-                                        <div class="user-img" style="background-image: url(images/person_3.jpg)">
+                                        <div class="user-img" style="background-image: url(images/person_1_lady.png)">
                                         </div>
                                         <div class="pos ml-3">
                                             <p class="name">Maria</p>
@@ -322,7 +329,7 @@
 
 
 
-    <section class="instagram mb-5" id="gallery">
+    <section class="instagram" id="gallery">
         <div class="container-fluid">
             <div class="row no-gutters justify-content-center pb-5">
                 <div class="col-md-7 text-center heading-section ftco-animate">
