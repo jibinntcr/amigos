@@ -311,7 +311,7 @@
                                             convenient stay in Nedumbassery.”</p>
                                     </div>
                                     <div class="d-flex">
-                                        <div class="user-img" style="background-image: url(images/person_1_lady.png)">
+                                        <div class="user-img" style="background-image: url(images/person_1_lady.png);">
                                         </div>
                                         <div class="pos ml-3">
                                             <p class="name">Maria</p>
