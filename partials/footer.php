@@ -9,9 +9,10 @@
                         for your convenience. Our welcoming staff is always available to make you feel welcome and at
                         ease. Thank you for thinking of us as a home away from home. We are excited to meet you!</p>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                        <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                        <!-- <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li> -->
+                        <li class="ftco-animate"><a target="_blank" href="https://www.facebook.com/amigosresidency"><span class="icon-facebook"></span></a>
+                        </li>
+                        <!-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> -->
                     </ul>
                 </div>
             </div>
@@ -46,8 +47,7 @@
                                     View, San Francisco, California, USA</span></li>
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929
                                         210</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span
-                                        class="text">info@yourdomain.com</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,9 +59,8 @@
                 <p>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     Copyright &copy;<script>
-                    document.write(new Date().getFullYear());
-                    </script> All rights reserved | Designed by by <a href="https://infinio.co.in"
-                        target="_blank">Infinio Technology
+                        document.write(new Date().getFullYear());
+                    </script> All rights reserved | Designed by by <a href="https://infinio.co.in" target="_blank">Infinio Technology
                         Solutions</a>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
