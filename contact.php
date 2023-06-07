@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-md-4 d-flex">
                     <div class="info rounded bg-white p-4">
-                        <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                        <p><span>Phone:</span> <a href="tel://+918590940300">+91 85909 40300</a></p>
                     </div>
                 </div>
                 <div class="col-md-4 d-flex">

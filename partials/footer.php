@@ -12,6 +12,12 @@
                         <!-- <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li> -->
                         <li class="ftco-animate"><a target="_blank" href="https://www.facebook.com/amigosresidency"><span class="icon-facebook"></span></a>
                         </li>
+                        <li class="ftco-animate"><a target="_blank" href="https://wa.me/+918590940300"><span class="bi bi-whatsapp"></span></a>
+                        </li>
+                        <li class="ftco-animate"><a target="_blank" href=""><span class="bi bi-envelope"></span></a>
+                        </li>
+                        <li class="ftco-animate"><a target="_blank" href=""><span class="bi bi-instagram"></span></a>
+                        </li>
                         <!-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> -->
                     </ul>
                 </div>
@@ -45,8 +51,7 @@
                         <ul>
                             <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain
                                     View, San Francisco, California, USA</span></li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929
-                                        210</span></a></li>
+                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 85909 40300</span></a></li>
                             <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
                         </ul>
                     </div>
