@@ -14,9 +14,9 @@
                         </li>
                         <li class="ftco-animate"><a target="_blank" href="https://wa.me/+918590940300"><span class="bi bi-whatsapp"></span></a>
                         </li>
-                        <li class="ftco-animate"><a target="_blank" href=""><span class="bi bi-envelope"></span></a>
+                        <li class="ftco-animate"><a target="_blank" href="mailto:amigosresidency@gma.com"><span class="bi bi-envelope"></span></a>
                         </li>
-                        <li class="ftco-animate"><a target="_blank" href=""><span class="bi bi-instagram"></span></a>
+                        <li class="ftco-animate"><a target="_blank" href="https://www.instagram.com/amigosresidency/"><span class="bi bi-instagram"></span></a>
                         </li>
                         <!-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> -->
                     </ul>
@@ -50,9 +50,9 @@
                     <div class="block-23 mb-3">
                         <ul>
                             <li><span class="icon icon-map-marker"></span><span class="text">Nedumbassery,
-Infront Of Airport,Kerala,India</span></li>
+Opposite Of Cochin International Airport,Kerala,India</span></li>
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 85909 40300</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">amigosresidency@gmail.com</span></a></li>
                         </ul>
                     </div>
                 </div>
