@@ -6,10 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700&display=swap" rel="stylesheet">
-
+    <link href="icons/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link rel="shortcut icon" href="images/logo.png" />
 
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -22,7 +25,6 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    <link rel="shortcut icon" href="images/logo.png" />
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -32,7 +34,7 @@
 
     <?php include('partials/header.php') ?>
     <!-- END nav -->
-    <div class="hero-wrap" style="background-image: url('images/bg_3.jpg'); height: 300px;">
+    <div class="hero-wrap" style="background-image: url('images/bg_1.jpg'); height: 300px;">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text d-flex align-itemd-center justify-content-center">
@@ -57,7 +59,8 @@
                 <div class="w-100"></div>
                 <div class="col-md-4 d-flex">
                     <div class="info rounded bg-white p-4">
-                        <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+                        <p><span>Address:</span> Nedumbassery,
+Infront Of Airport,Kerala,India</p>
                     </div>
                 </div>
                 <div class="col-md-4 d-flex">
